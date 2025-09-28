@@ -1,0 +1,23 @@
+html>
+<body>
+<form>
+
+    First Name&nbsp&nbsp<input type="text" name="firstname" placeholder="Aage wala naam"><br><br>
+
+    Last Name&nbsp&nbsp<input type="text" name="lastname" placeholder="Piche wala naam"><br><br>
+
+    Email&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<input type="email" name="email" placeholder="Email address"><br><br>
+
+    Password&nbsp&nbsp&nbsp&nbsp<input type="password" name="password" placeholder="Password"><br><br>
+    Picture&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<input type="file"name="fileupload"accept="image/*"placeholder="Select Picture"><br><br>
+ Vitamin &nbsp&nbsp&nbsp&nbsp&nbsp<select>
+    <option value="E">E</option>
+    <option value="A">A</option>
+	<option value="D3">D3</option>
+    <option value="B12">b12</option>
+    </select><br><br>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<input type="submit" value="Submit">
+
+</form>
+</body>
+</html>
