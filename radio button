@@ -1,0 +1,10 @@
+<html>
+<body>
+Project Name:&nbsp&nbsp<input type="text" name="firstname" placeholder="Project ka naam"><br><br>
+Start Date:&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<input type="date"><br><br>
+End Date:&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<input type="date"><br><br>
+<input type="radio" name="options" value="option1"> Option 1<br>
+<input type="radio" name="options" value="option2"> Option 2<br>
+<input type="radio" name="options" value="option3"> Option 3<br><br>
+</body>
+<html>
