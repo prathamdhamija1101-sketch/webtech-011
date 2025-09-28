@@ -1,0 +1,43 @@
+<html>
+<body>
+
+<table border="7" bordercolor="skyblue" style="text-align:center; border-collapse: collapse;">
+  <caption style="font-size: 24px; font-weight: bold; margin-bottom: 10px;">tennis Dominant Country</caption>
+  <tr>
+    <th style="background-color: #FFCCCC; font-family: Arial, sans-serif; font-weight: bold; color: #800000;">Country With tennis History</th>
+    <th style="background-color: #CCE5FF; font-family: 'Courier New', Courier, monospace; font-weight: bold; color: #003366;">Flags</th>
+  </tr>
+  <tr>
+    <td style="background-color: #FFF2CC; font-family: Georgia, serif; color: #665500;">India</td>
+    <td style="background-color: #E6F2FF;">
+      <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png" width="100" height="100">
+    </td>
+  </tr>
+  <tr>
+    <td style="background-color: #D5E8D4; font-family: Tahoma, Geneva, sans-serif; color: #274E13;">Brazil</td>
+    <td style="background-color: #CFE2F3;">
+      <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/250px-Flag_of_Brazil.svg.png" width="100" height="100">
+    </td>
+  </tr>
+  <tr>
+    <td style="background-color: #F4CCCC; font-family: 'Lucida Console', Monaco, monospace; color: #990000;">Germany</td>
+    <td style="background-color: #D9EAD3;">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNIiRc3fInWBJ6iLOYpmGIdJb_qe8CUpz80g&s" width="100" height="100">
+    </td>
+  </tr>
+  <tr>
+    <td style="background-color: #FFE599; font-family: 'Comic Sans MS', cursive, sans-serif; color: #665500;">Spain</td>
+    <td style="background-color: #B6D7A8;">
+      <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/250px-Flag_of_Spain.svg.png" width="100" height="100">
+    </td>
+  </tr>
+  <tr>
+    <td style="background-color: #D0E0E3; font-family: Verdana, Geneva, Tahoma, sans-serif; color: #1F497D;">Argentina</td>
+    <td style="background-color: #A4C2F4;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/250px-Flag_of_Argentina.svg.png" width="100" height="100">
+    </td>
+  </tr>
+</table>
+
+</body>
+</html>
