@@ -1,0 +1,61 @@
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+<table BORDER="1" bordercolor="purple">
+  <tr>
+    <th align="center">Day</th>
+    <th align="center">9:00AM-9:50AM</th>
+    <th align="center">9:50AM-10:40AM</th>
+    <th align="center">10:40AM-11:30AM</th>
+    <th align="center">11:30AM-12:20PM</th>
+    <th align="center">12:20PM-1:10AM</th>
+    <th align="center">1:10PM-2:00AM</th>
+  </tr>
+  <tr>
+    <td align="center"bgcolor="LavenderBlush">Monday</td>
+    <td align="center" colspan="2"bgcolor="Beige">WT(P) </td>
+    <td align="center"bgcolor="Beige">BREAK </td>
+    <td align="center" colspan="2"bgcolor="Beige">IKS </td>
+    <td align="center"bgcolor="Beige">EOM </td>
+  </tr>
+  <tr>
+    <td align="center"bgcolor="LavenderBlush">Tuesday</td>
+    <td align="center"bgcolor="LightCoral">ITC-PROGRAMMING</td>
+    <td align="center"bgcolor="LightCoral">DBMS</td>
+    <td align="center"bgcolor="LightCoral">EOM</td>
+    <td align="center"bgcolor="LightCoral">BREAK</td>
+	<td align="center"bgcolor="LightCoral">Apptitude</td>
+    <td align="center"bgcolor="LightCoral">Itipic(p)</td>
+  </tr>
+    <tr>
+    <td align="center"bgcolor="LavenderBlush">WEDNASDAY</td>
+    <td align="center"bgcolor="LightPink"></td>
+    <td align="center"bgcolor="LightPink">WT(P) </td>
+    <td align="center"bgcolor="LightPink">BREAK</td>
+    <td align="center"bgcolor="LightPink">IKS </td>
+    <td align="center"bgcolor="LightPink">IKS </td>
+    <td align="center"bgcolor="LightPink">EOM </td>
+  </tr>
+  <tr>
+    <td align="center"bgcolor="LavenderBlush">THURSDAY</td>
+    <td align="center"bgcolor="MistyRose">ITC-PROGRAMMING</td>
+    <td align="center"bgcolor="MistyRose">EOM</td>
+    <td align="center"bgcolor="MistyRose">Break</td>
+    <td align="center"bgcolor="MistyRose">WT(p)</td>
+	<td align="center"bgcolor="MistyRose">Itipic(th)</td>
+    <td align="center"bgcolor="MistyRose">DBMS</td>
+  </tr>
+    <tr>
+    <td align="center"bgcolor="LavenderBlush">FRIDAY</td>
+    <td align="center"bgcolor="PaleGreen">ITC-PROGRAMMING</td>
+    <td align="center"bgcolor="PaleGreen">EOM</td>
+    <td align="center"bgcolor="PaleGreen">SOFT SKILLS</td>
+    <td align="center"bgcolor="PaleGreen">BREAK</td>
+	<td align="center"bgcolor="PaleGreen">WT</td>
+    <td align="center"bgcolor="PaleGreen"></td>
+  </tr>
+</table>
+</body>
+</html>
